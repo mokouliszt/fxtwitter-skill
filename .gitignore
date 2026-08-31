@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.skill
+fxtwitter-media/
+openapi.json
+dist/
+.DS_Store
